@@ -1,0 +1,4 @@
+== Reihen
+
+include::Reihen/Arithmetische_Reihe.adoc[]
+include::Reihen/Geometrische_Reihe.adoc[]

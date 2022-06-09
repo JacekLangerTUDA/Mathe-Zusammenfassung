@@ -1,0 +1,14 @@
+= Mathematik für Mathematisch technische Softwareentwickler
+:authors: Jacek Langer & Ahmet Toy
+:description: Eine vereinfachte Zusammenfassung der Lehrinhalte aus dem ersten Lehrjar.
+:imagesdir: Abbildungen
+:stem: asciimath
+
+// block
+[asciimath]
+++++
+sqrt(4)
+++++
+
+// inline
+some text stem:[sqrt(4)]

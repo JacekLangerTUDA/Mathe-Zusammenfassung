@@ -1,0 +1,3 @@
+== Allgemeine Bewiesführung in der Mathematik
+
+include::Beispiele/Kleiner_Gauss.adoc[]

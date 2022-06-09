@@ -1,0 +1,4 @@
+== Divergenz und Konvergenz
+
+include::Divergenz_und_Konvergenz/Divergenz.adoc[]
+include::Divergenz_und_Konvergenz/Konvergenz.adoc[]
