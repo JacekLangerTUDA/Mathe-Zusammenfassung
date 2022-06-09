@@ -1,6 +1,6 @@
-== Folgen
+=== Folgen
 
-include::Folgen/Arithmetische_Folge.adoc[]
-include::Folgen/Geometrische_Folge.adoc[]
-include::Folgen/Explizit.adoc[]
-include::Folgen/Recursiv.adoc[]
+include::Folgen/Arithmetische_Folge.adoc[leveloffset=1]
+include::Folgen/Geometrische_Folge.adoc[leveloffset=1]
+include::Folgen/Explizit.adoc[leveloffset=1]
+include::Folgen/Recursiv.adoc[leveloffset=1]

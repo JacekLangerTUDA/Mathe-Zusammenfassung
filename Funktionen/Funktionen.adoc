@@ -1,0 +1,5 @@
+== Funktionen
+
+include::Relationen.adoc[]
+include::Eigenschaften_von_Funktionen.adoc[]
+include::Nullstellen.adoc[]

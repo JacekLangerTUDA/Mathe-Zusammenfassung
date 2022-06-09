@@ -4,11 +4,19 @@
 :imagesdir: Abbildungen
 :stem: asciimath
 
+// Anwendungsbeispiel für stem math in asciidoctor
 // block
-[asciimath]
-++++
-sqrt(4)
-++++
+//[asciimath]
+//++++
+//sqrt(4)
+//++++
 
 // inline
-some text stem:[sqrt(4)]
+//some text stem:[sqrt(4)]
+
+include::Beweise/Allgemeine_Beweisführung.adoc[]
+include::Boolsche_Algebra/Boolsche_algebra.adoc[]
+include::Mengen/Mengen.adoc[]
+include::Modulare_arithmetik/Modulare_Arithmetik.adoc[]
+include::Folgen_und_Reihen/Folgen_und_Reihen.adoc[]
+include::Funktionen/Funktionen.adoc[]

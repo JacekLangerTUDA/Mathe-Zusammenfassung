@@ -1,0 +1,1 @@
+=== Lösen von Nullstellen mittels Polynomdivision

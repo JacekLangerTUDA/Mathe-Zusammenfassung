@@ -1,4 +1,4 @@
-== Reihen
+=== Reihen
 
-include::Reihen/Arithmetische_Reihe.adoc[]
-include::Reihen/Geometrische_Reihe.adoc[]
+include::Reihen/Arithmetische_Reihe.adoc[leveloffset=1]
+include::Reihen/Geometrische_Reihe.adoc[leveloffset=1]
