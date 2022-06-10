@@ -1,1 +1,22 @@
-=== Relation und Reihen
+=== Relation und Funktionen
+
+Relationen sind alle Abbildungen der Bildmenge auf den Wertebereich.
+Nur *linkstotale* und *rechts eindeutige* Abbildungen bezeichnen wir als Funktion.
+
+Aber was bedeutet das eigentlich?
+
+- Linkstotal: allen Werten der Bildmenge ist ein Wert im Wertebereich zu geordnet.
+- Rechts eindeutig: Jeder Wert aus dem Wertebereich kann eindeutig einem Wert aus der Bildmenge zugeordnet werden.
+
+Ist keine Definitionsmenge angegeben gilt allgemein, dass die Bildmenge den Definitionsbereich darstellt.
+Ist kein Wertebereich angegeben ist der Definitionsbereich der Bildmenge anzunehmen.
+
+Beispiel:
+
+Wollen von stem:[f:A->B] abbilden.
+Dann ist ohne weitere Angaben der größt mögliche Definitionsbereich für stem:[A] anzunehmen.
+Somit ist unsere Bildmenge stem:[RR] dies gilt ebenfalls für unseren Wertebereich.
+
+include::Relationen/Injektiv.adoc[leveloffset=1]
+include::Relationen/Surjektiv.adoc[leveloffset=1]
+include::Relationen/Bijektiv.adoc[leveloffset=1]

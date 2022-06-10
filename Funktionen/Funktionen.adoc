@@ -1,5 +1,9 @@
 == Funktionen
 
+Wenn wir von Funktionen reden, meinen wir eigentlich eine spezielle Form der Relation.
+Dabei ist jede Relation eine Abbildung einer Menge auf eine andere Menge. Diese Mengen bezeichnen
+wir als *Bildmenge* und als *Zielmenge* bzw. *Wertebereich*.
+
 include::Relationen.adoc[]
 include::Eigenschaften_von_Funktionen.adoc[]
 include::Nullstellen.adoc[]

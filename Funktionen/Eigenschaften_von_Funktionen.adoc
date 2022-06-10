@@ -1,5 +1,7 @@
 === Eigenschaften von Funktionen
 
+include::Eigenschaften_von_Funktionen/Monotonie.adoc[leveloffset=1]
+include::Eigenschaften_von_Funktionen/Beschraenktheit.adoc[leveloffset=1]
 include::Eigenschaften_von_Funktionen/Achsensymetrie.adoc[leveloffset=1]
 include::Eigenschaften_von_Funktionen/Punktsymetrie.adoc[leveloffset=1]
 include::Eigenschaften_von_Funktionen/Grenzwertverhalten.adoc[leveloffset=1]
