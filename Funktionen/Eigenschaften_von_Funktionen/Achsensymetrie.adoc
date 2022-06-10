@@ -7,23 +7,19 @@ stem:[f(x)=f(-x)]
 ++++
 i) f(x) = x^4-2x
 
-z.z.
-f(x)=f(-x)
+"z.z. "f(x)=f(-x)
 
 f(-x) = (-x)^4-2(-2)^2 = x^4-2x = f(x)
     q.e.d.
-++++
 
-stem:[=> f] ist achsensymetrisch
+=> f" ist achsensymetrisch"
 
-stem:[ii)] stem:[g(x) = cos(x)]
+ii)" "g(x) = cos(x)
 
-Es Gilt: stem:[cos(x) = cos(-x) =>g] ist achsensymetrisch
+"Es Gilt: "cos(x) = cos(-x) =>g" ist achsensymetrisch"
 
-stem:[iii)] stem:[h(x) = x => h(-x) = -x !=h(x)]
+iii) h(x) = x => h(-x) = -x !=h(x)
 
-[stem]
-++++
 "Sei " p " ein Polynom und "n=2m,m in NN_0.
 
 p(x) = sum_(k=0)^m=a_(2k)*x^(2k),(-x)^(2k)=[(-x)^2]^k = [x^2]^k = x^(2k)

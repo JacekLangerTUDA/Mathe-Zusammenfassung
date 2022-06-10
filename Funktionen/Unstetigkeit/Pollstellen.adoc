@@ -31,7 +31,7 @@ stem:[lim_(x->0^-) 1/x^2] und stem:[lim_(x->0^+) 1/x^2] betrachten.
 
 stem:[lim_(x->0^-) 1/x^2 = oo]
 
-stem:[lim_(x->0^+) 1/x^2 == oo]
+stem:[lim_(x->0^+) 1/x^2 = oo]
 
 image::/Abbildungen/Unstetigkeit/PolstelleOhneVZW.png[Polstelle ohne Vorzeichenwechsel,300]
 

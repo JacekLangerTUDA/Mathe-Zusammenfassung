@@ -1,15 +1,11 @@
 === Punktsymetrie
 
-stem:[f(x) = 2x^5-3x^3+x]
-
-stem:[i)]
-z.z.
-stem:[f(x) = -f(-x)]
-bzw.
-
 [stem]
 ++++
-f(-x) = -f(x)
+i)
+f(x) = 2x^5-3x^3+x
+
+" z.z. " f(x) = -f(-x) " bzw. " f(-x) = -f(x)
 
 
 -f(-x) = -[2(-x)^5-3(-x)^3+(-x)]
@@ -23,6 +19,7 @@ f(-x) = -f(x)
  = f(x)
 
 q.e.d.
+
 ++++
 
 Gegenbeweis
