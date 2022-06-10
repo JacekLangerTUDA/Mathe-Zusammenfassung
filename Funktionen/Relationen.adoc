@@ -15,7 +15,7 @@ Beispiel:
 
 Wollen von stem:[f:A->B] abbilden.
 Dann ist ohne weitere Angaben der größt mögliche Definitionsbereich für stem:[A] anzunehmen.
-Somit ist unsere Bildmenge stem:[RR] dies gilt ebenfalls für unseren Wertebereich.
+Somit ist unsere Bildmenge stem:[RR], analog dazu gilt das selbe für stem:[B], sprich unsere Zielmenge.
 
 include::Relationen/Injektiv.adoc[leveloffset=1]
 include::Relationen/Surjektiv.adoc[leveloffset=1]
