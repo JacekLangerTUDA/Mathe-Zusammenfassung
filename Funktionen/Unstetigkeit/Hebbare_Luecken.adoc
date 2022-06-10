@@ -1,0 +1,3 @@
+=== Hebbare Lücken
+
+image::/Abbildungen/Unstetigkeit/HebbareLuecke.png[Hebbare Lücken,300]

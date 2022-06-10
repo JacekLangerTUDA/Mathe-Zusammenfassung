@@ -1,0 +1,38 @@
+=== Polstellen
+
+==== Polstellen mit Vorzeichenwechsel
+
+Bei Polstellen mit Vorzeichenwechsel handelt es sich um Unstetigkeiten in der Funktion.
+In der Regel Konvergiert der Wert an der stelle stem:[x_0], abhängig von der richtung von der man die Polstelle betrachtet gegen stem:[-oo] und stem:[oo].
+
+stem:[f(x) = 1/x,D= RR\{0}]
+
+Wir sehen, dass 0 nicht in unserer Definitionsmenge enthalten ist da es sich sonnst nicht um eine Funktion handeln würde.
+Betrachten wir nun die Werte um 0 herum können wir die beiden Extrema analysieren.
+In unserem Fall würden wir für:
+stem:[lim_(x->0^-) 1/x] und stem:[lim_(x->0^+) 1/x] betrachten.
+
+stem:[lim_(x->0^-) 1/x = -oo]
+
+stem:[lim_(x->0^+) 1/x == oo]
+
+Somit handelt es sich um eine Sprungstelle mit Vorzeichenwechsel
+
+image::/Abbildungen/Unstetigkeit/PolstelleMitVZW.png[Polstelle mit Vorzeichenwechsel,300]
+
+==== Pollstellen ohne Vorzeichenwechsel
+
+stem:[f(x) = 1/x^2,D= RR\{0}]
+
+Wir erkennen, dass 0 abermals nicht in unserer Definitionsmenge enthalten ist.
+Betrachten wir nun die Werte um 0 herum sehen wir das wir es mit einer Polstelle ohne Vorzeichenwechsel zu tun haben.
+
+stem:[lim_(x->0^-) 1/x^2] und stem:[lim_(x->0^+) 1/x^2] betrachten.
+
+stem:[lim_(x->0^-) 1/x^2 = oo]
+
+stem:[lim_(x->0^+) 1/x^2 == oo]
+
+image::/Abbildungen/Unstetigkeit/PolstelleOhneVZW.png[Polstelle ohne Vorzeichenwechsel,300]
+
+

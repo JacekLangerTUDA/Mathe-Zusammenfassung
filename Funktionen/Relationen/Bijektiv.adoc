@@ -1,1 +1,9 @@
 === Bijektiv
+
+Eine Funktion gilt als bijektiv wenn:
+
+stem:[AAy in B ] stem:[EE!x in A: y=f(x)]
+
+Jedem Wert in der Zielmenge stem:[B] kann genau ein Wert aus der Bildmenge stem:[A] zugewiesen werden.
+
+image::/Abbildungen/injektiv_bijektiv_surjektiv.png[]

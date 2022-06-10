@@ -1,0 +1,4 @@
+=== Sprungstellen
+
+image::/Abbildungen/Unstetigkeit/Sprungstelle.png[Sprungstellen,300]
+

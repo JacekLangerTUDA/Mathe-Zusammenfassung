@@ -1,0 +1,16 @@
+=== Unstetikeit bei Funktionen und Unstetigkeitsstellen
+
+Unstetigkeit ist am besten beschrieben durch ein Beispiel.
+Nehmen wir eine Funktion stem:[f].
+Wenn wir den Graphen der Funktion Zeichnen wollen und dabei den Stift absetzen müssen da wir an einer Anderen Stelle wieder ansetzen müssen, haben wir eine Unstetigkeit. ein Beispiel dafür wäre stem:[f(x) = 1/x].
+
+Wir können zwischen vier Unstetigkeitstellen unterscheiden.
+Polstellen *mit* Vorzeichenwechsel, Polstellen *ohne* Vorzeichenwechsel, Sprungstellen, und Hebbaren Lücken.
+
+Um festzustellen um welche art von Unstetigkeitsstelle es sich handelt betrachten wir den undefinierten Bereich der Funktion.
+
+image::/Abbildungen/Unstetigkeit/Unstetigeitstellen.png[]
+
+include::Unstetigkeit/Pollstellen.adoc[leveloffset=1]
+include::Unstetigkeit/Sprungstellen.adoc[leveloffset=1]
+include::Unstetigkeit/Hebbare_Luecken.adoc[leveloffset=1]

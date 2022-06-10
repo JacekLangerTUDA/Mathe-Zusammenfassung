@@ -1,1 +1,8 @@
 === Injektiv
+
+Eine Funktion gilt als injektiv wenn:
+
+stem:[AAx_1,x_2 in A: x_2!=x_1 => f(x_1)!=f(x_2)]
+
+Im Klartext bedeuted das, dass eine funktion injektiv ist wenn, für jeden wert aus der Wertemenge stem:[A] ein wert in der Zielmenge stem:[B] existiert.
+

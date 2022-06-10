@@ -1,1 +1,36 @@
 === Punktsymetrie
+
+stem:[f(x) = 2x^5-3x^3+x]
+
+stem:[i)]
+z.z.
+stem:[f(x) = -f(-x)]
+bzw.
+
+[stem]
+++++
+f(-x) = -f(x)
+
+
+-f(-x) = -[2(-x)^5-3(-x)^3+(-x)]
+
+
+
+=-[-2x^5+3x^3-x]
+
+= 2x^5-3x^3+x
+
+ = f(x)
+
+q.e.d.
+++++
+
+Gegenbeweis
+
+stem:[ii)]
+stem:[f(x) = 2x^5-3x^3+x^color(red)(2)]
+
+analog zu i):
+
+stem:[-f(-x)= -[-2x^5+3x^3+x^2]]
+stem:[= 2x^5-3x^3-x^2 != f(x)]

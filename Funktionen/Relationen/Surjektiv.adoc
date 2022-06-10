@@ -1,1 +1,8 @@
 === Surjektiv
+
+Eine Funktion gilt als surjektiv wenn:
+
+stem:[AAy in B ] stem:[EEx in A: y=f(x)]
+
+Für jedes y in der Zielmenge stem:[B] muss es in der Wertemenge stem:[A] mindestens einen Wert geben.
+
