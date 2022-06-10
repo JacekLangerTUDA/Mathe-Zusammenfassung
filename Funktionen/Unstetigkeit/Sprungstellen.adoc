@@ -1,4 +1,13 @@
 === Sprungstellen
 
+Polstellen sind Werte bei denen unsere Funktion einen einen "Sprung" macht.
+Sie können bei Falluntersheidungen zustande kommen.
+Ein solcher fall wäre stem:[f(x)={(x,",",x<0),(x+1,",",x>0):}]
+
+Auch hier wird der Grenzwert an der Stelle stem:[x_0] von beiden Seiten betrachtet.
+
+Sprich
+stem:[lim_(x->x_0^-)] und stem:[lim_(x->x_0^+)] in unserem Fall ist stem:[x_0=0].
+
 image::/Abbildungen/Unstetigkeit/Sprungstelle.png[Sprungstellen,300]
 

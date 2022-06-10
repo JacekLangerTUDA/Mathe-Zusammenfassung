@@ -1,3 +1,14 @@
 === Hebbare Lücken
 
+Bei Hebbaren Lücken handelt es sich um Undefinierte Bereiche in unserer Funktion für die wir eine Akternative Funktion finden können.
+
+stem:[f(x) = x^2/x] ist so ein Fall.
+Für stem:[x = 0] ist unsere Funktion nicht deffiniert.
+Allerdings verhält sie sich für alle weiteren x genau wie stem:[f(x)=x].
+
+Unsere Vermutung bestätigt sich wenn wir stem:[x_0] von beiden seiten betrachten.
+
+stem:[lim_(x->x_0^-] und
+stem:[lim_(x->x_0^+]
+
 image::/Abbildungen/Unstetigkeit/HebbareLuecke.png[Hebbare Lücken,300]
