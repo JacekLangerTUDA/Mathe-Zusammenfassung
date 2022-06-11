@@ -18,7 +18,8 @@ stem:[lim_(x->0^+) 1/x == oo]
 
 Somit handelt es sich um eine Sprungstelle mit Vorzeichenwechsel
 
-image::/Abbildungen/Unstetigkeit/PolstelleMitVZW.png[Polstelle mit Vorzeichenwechsel,300]
+
+image::Unstetigkeit/PolstelleMitVZW.png[Polstelle mit Vorzeichenwechsel, align=center,400]
 
 ==== Pollstellen ohne Vorzeichenwechsel
 
@@ -33,6 +34,6 @@ stem:[lim_(x->0^-) 1/x^2 = oo]
 
 stem:[lim_(x->0^+) 1/x^2 == oo]
 
-image::/Abbildungen/Unstetigkeit/PolstelleOhneVZW.png[Polstelle ohne Vorzeichenwechsel,300]
+image::Unstetigkeit/PolstelleOhneVZW.png[Polstelle ohne Vorzeichenwechsel,400, align=center]
 
 

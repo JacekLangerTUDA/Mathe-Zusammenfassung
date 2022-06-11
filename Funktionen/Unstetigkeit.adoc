@@ -9,7 +9,7 @@ Polstellen *mit* Vorzeichenwechsel, Polstellen *ohne* Vorzeichenwechsel, Sprungs
 
 Um festzustellen um welche art von Unstetigkeitsstelle es sich handelt betrachten wir den undefinierten Bereich der Funktion.
 
-image::/Abbildungen/Unstetigkeit/Unstetigeitstellen.png[]
+image::Unstetigkeit/Unstetigeitstellen.png[align = center, alt = Unstetigkeitsstellen, alt = Unstetigkeitsstellen, widht = 800]
 
 include::Unstetigkeit/Pollstellen.adoc[leveloffset=1]
 include::Unstetigkeit/Sprungstellen.adoc[leveloffset=1]

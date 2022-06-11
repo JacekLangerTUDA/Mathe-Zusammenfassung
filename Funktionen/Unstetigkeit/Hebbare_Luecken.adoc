@@ -11,4 +11,4 @@ Unsere Vermutung bestätigt sich wenn wir stem:[x_0] von beiden seiten betrachte
 stem:[lim_(x->x_0^-] und
 stem:[lim_(x->x_0^+]
 
-image::/Abbildungen/Unstetigkeit/HebbareLuecke.png[Hebbare Lücken,300]
+image::Unstetigkeit/HebbareLuecke.png[Hebbare Lücken,400,align=center]
