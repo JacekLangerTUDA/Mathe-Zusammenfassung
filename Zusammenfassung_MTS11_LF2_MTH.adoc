@@ -4,15 +4,6 @@
 :imagesdir: Abbildungen
 :stem: asciimath
 
-// Anwendungsbeispiel für stem math in asciidoctor
-// block
-//[asciimath]
-//++++
-//sqrt(4)
-//++++
-
-// inline
-//some text stem:[sqrt(4)]
 
 include::Beweise/Allgemeine_Beweisführung.adoc[]
 include::Boolsche_Algebra/Boolsche_algebra.adoc[]
