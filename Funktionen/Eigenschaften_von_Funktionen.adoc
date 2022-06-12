@@ -1,5 +1,8 @@
 === Eigenschaften von Funktionen
 
+Wie bei link:../../Folgen_und_Reihen/Folgen_und_Reihen.adoc[Folgen und Reihen]
+können Funktionen auf Monotonie untersucht werden.
+
 include::Eigenschaften_von_Funktionen/Monotonie.adoc[leveloffset=1]
 include::Eigenschaften_von_Funktionen/Beschraenktheit.adoc[leveloffset=1]
 include::Eigenschaften_von_Funktionen/Achsensymetrie.adoc[leveloffset=1]

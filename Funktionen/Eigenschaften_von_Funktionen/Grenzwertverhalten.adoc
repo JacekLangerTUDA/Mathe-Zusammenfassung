@@ -1,1 +1,10 @@
 === Grenzwertverhalten - Limes
+
+Für das Grenzverhalten im Unendlichen ist lediglich die Höhste Potenz ausschlaggebend.
+Allerdings muss die gesamte Funktion betrachtet werden wenn sie gegen einen bestimmten Wert Konvergiert.
+
+
+
+
+.Beweis für die Nullstelle von Polynomen ungeraden Grades.
+include::../../Beweise/Funktionen/Nullstellen_reeler_Polyonome_ungerade.adoc[]

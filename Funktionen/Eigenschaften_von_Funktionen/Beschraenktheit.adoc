@@ -1,1 +1,6 @@
 === Beschränktheit
+
+Eine Funktion ist beschränkt wenn es ein stem:[s in RR] gibt, so dass die Funktion stehts kleiner stem:[s] ist.
+
+stem:[EEs: f(x) < s" "] stem:[s,x in RR].
+Siehe auch link:Grenzwertverhalten.adoc[Grenzverhalten von Funktionen].
