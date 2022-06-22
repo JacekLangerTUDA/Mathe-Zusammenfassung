@@ -19,7 +19,10 @@ lim_(x->+-oo) a_n x^n(1 + (a_(n-1) x^(n-1))/(a_n x^n) +...+(a_0 x^0)/(a_n x^n)) 
 
 => "Nur der höhste Grad einer Funktion ist ausschlaggebend für ihr verhalten"
 
+x^n = x^(2k+1) <=> x*x^2
 
-=> f(x) = {(a_n>0: lim_(x->-oo)a_n x^x < 0 < lim_(x->oo)a_n x^x,(a_n<0) ),
-            (a_n<0:   lim_(x->-oo)a_n x^x > 0 > lim_(x->oo)a_n x^x,(a_n<0)):}
+=>{(x<0 => x^n <0), (x> 0 => x^n >0):}
+
+=> f(x) = {(a_n>0: lim_(x->-oo)a_n x^n < 0 < lim_(x->oo)a_n x^n,(a_n<0) ),
+            (a_n<0:   lim_(x->-oo)a_n x^n > 0 > lim_(x->oo)a_n x^n,(a_n<0)):}
 ++++
