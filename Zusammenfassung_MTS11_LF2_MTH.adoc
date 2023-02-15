@@ -2,7 +2,8 @@
 :authors: Jacek Langer & Ahmet Toy
 :description: Eine vereinfachte Zusammenfassung der Lehrinhalte aus dem ersten Lehrjar.
 :imagesdir: Abbildungen
-:stem: asciimath
+:stem: latexmath
+:toc:
 
 
 include::Beweise/Allgemeine_Beweisführung.adoc[]
@@ -11,3 +12,5 @@ include::Mengen/Mengen.adoc[]
 include::Modulare_arithmetik/Modulare_Arithmetik.adoc[]
 include::Folgen_und_Reihen/Folgen_und_Reihen.adoc[]
 include::Funktionen/Funktionen.adoc[]
+include::Differentialrechnung/Ableiten.adoc[]
+include::Kombinatorik/Warscheinlichkeiten.adoc[]

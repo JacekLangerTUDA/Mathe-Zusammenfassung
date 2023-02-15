@@ -1,0 +1,9 @@
+== Differentieren in R
+
+
+
+== Wichtige Ableitregeln
+
+== Grenzwerte mit L'Hôpital
+
+== Taylor Polynom
