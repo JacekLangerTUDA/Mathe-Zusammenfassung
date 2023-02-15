@@ -1,0 +1,40 @@
+== Modulare Arithmetik
+
+Seien stem:[a,b in Z] stem:[a] teilt stem:[b] genau dann, wenn ein stem:[n in Z] existiert, so dass stem:[a*n = b].
+stem:[∀a,b in Z:a|b ⇔ ∃n in Z:a*n=b]
+
+Das bedeutet, dass jede beliebige ganze Zahl durch jede andere ganze Zahl teilbar ist, wenn es mindestens ein stem:[n in Z] gibt das multipliziert mit stem:[a,b] ergibt.
+
+Es gelten daher folgende Rechenregeln:
+
+. stem:[a|1 ⇒ a = +-1]
+. stem:[a|b∧b|c ⇒a|c]
+. stem:[a|b∧a|c ⇒a(bx+cx) ∀ x,y∈Z]
+. stem:[ac|bc ∧c ≠0 ⇒a|b]
+
+=== Größter gemeinsamer Teiler (ggT)
+
+Der Größte gemeinsame Teiler ist, die größte Zahl  stem:[n in N=n | b ∧ n |  a ,a,b in Z]
+ist stem:[ggT(a,b)= 1]  sind a und b teilerfremd.
+
+Der ggT zweier Zahlen lässt sich mit Hilfe des Euklidischen Algorithmus bestimmen.
+
+==== Euklidischer Algorithmus
+
+stem:[a=b*q+r ,0≤r≤|b|]
+
+Am Beispiel stem:[ggt(334,24)]
+
+|===
+|a |b |q |R
+
+|334|    24|    18|    22
+|24|    22|    1|    2
+|22|    2|    11|    0
+|===
+
+. stem:[334 = 24*18\ R\ 22]
+. stem:[24 = 22*1\ R\ 2]
+. stem:[22 = 2*11\ R\ 0]
+
+Somit ist 2 der kleinste gemeinsame Teiler!

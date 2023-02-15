@@ -1,9 +1,13 @@
 == Differentieren in R
 
+=== Wichtige Ableitregeln
 
+=== Grenzwerte mit L'Hôpital
 
-== Wichtige Ableitregeln
+=== Taylor Polynom
 
-== Grenzwerte mit L'Hôpital
+=== Regression und Splines
 
-== Taylor Polynom
+==== Regressions-Funktionen
+
+==== Kubische Splines
