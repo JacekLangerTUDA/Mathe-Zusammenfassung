@@ -1,4 +1,5 @@
 === Relation und Funktionen
+:stem:
 
 Relationen sind alle Abbildungen der Bildmenge auf den Wertebereich.
 Nur *linkstotale* und *rechts eindeutige* Abbildungen bezeichnen wir als Funktion.
