@@ -1,6 +1,6 @@
 = Mathematik für Mathematisch technische Softwareentwickler
 :authors: Jacek Langer & Ahmet Toy
-:description: Eine vereinfachte Zusammenfassung der Lehrinhalte aus dem ersten Lehrjar.
+:description: Eine vereinfachte Zusammenfassung der Lehrinhalte.
 :imagesdir: Abbildungen
 :stem: latexmath
 :toc:
@@ -8,7 +8,9 @@
 
 include::Beweise/Allgemeine_Beweisführung.adoc[]
 include::Boolsche_Algebra/Boolsche_algebra.adoc[]
+
 include::Mengen/Mengen.adoc[]
+
 include::Modulare_arithmetik/Modulare_Arithmetik.adoc[]
 include::Folgen_und_Reihen/Folgen_und_Reihen.adoc[]
 include::Funktionen/Funktionen.adoc[]

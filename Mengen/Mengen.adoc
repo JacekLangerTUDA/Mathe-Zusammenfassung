@@ -1,4 +1,5 @@
 == Mengen
+:stem:
 
 Zunächst sollten wir uns in Gedanken rufen was eigentlich eine Zahl ist.
 Bei Einer Zahl handelt es sich in erster Linie um eine Repräsentation eines wertes.
